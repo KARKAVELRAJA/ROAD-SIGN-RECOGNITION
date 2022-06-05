@@ -4,7 +4,7 @@
 
 -----
 
-### WORKFLOW OF ROAD-SIGN-RECOGNITION
+### WORKFLOW OF ROAD SIGN RECOGNITION
 
 - Collecting the Dataset
 - Pre-processing the Dataset
